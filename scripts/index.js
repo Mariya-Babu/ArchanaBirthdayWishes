@@ -5,7 +5,7 @@ const canvasC = document.getElementById('c');
 const foot =  document.getElementById('foot');
 
 const config = {
-  birthdate: 'November 02, 2023',
+  birthdate: 'November 03, 2024',
   name: 'Sri Archana '
 };
 
